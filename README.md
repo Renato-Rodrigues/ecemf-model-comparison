@@ -8,7 +8,8 @@ Modellers and contributors: Robert Pietzcker, Muhammad Awais, Maro Baka, Frances
 
 # License
 
-- Results and visualizations are provided under a CC-BY-4.0 licence.  
+- Results and visualizations are provided under a CC-BY-4.0 licence.
+- The visualizations created by this code are available at: https://renato-rodrigues.github.io/ecemf-model-comparison/paperCharts.html
 
 # Reproduction
 
